@@ -32,3 +32,5 @@ Use the setup and draw functions
 #### You must comment your code. How many comments? The more the better! You must use variables too!
 Include your Academic honesty certification as a comment in your source code.
 Run the program. Confirm that the program works demonstrating your changes.
+
+<img width="600" alt="assignment11_patriciaantlitz_00318934" src="https://user-images.githubusercontent.com/59259041/100961261-083ddf00-34f0-11eb-8fc4-fd7c4bc88af6.png">
